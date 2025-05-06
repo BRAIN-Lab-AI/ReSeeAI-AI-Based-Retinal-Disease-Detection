@@ -19,7 +19,7 @@ In a world where millions silently suffer from retinal diseases, early detection
 - OCT Dataset: [MaybeRichard/OCT-retina-classification-2017](https://huggingface.co/datasets/MaybeRichard/OCT-retina-classification-2017)
 
 **Presentation**
-- ReeSee: [!](https://reesee.my.canva.site/)
+- ReeSee: [Presentation](https://reesee.my.canva.site/)
 
 ---
 
