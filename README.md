@@ -18,8 +18,9 @@ In a world where millions silently suffer from retinal diseases, early detection
 - Fundus Dataset: [Peacein/color-fundus-eye](https://huggingface.co/datasets/Peacein/color-fundus-eye)
 - OCT Dataset: [MaybeRichard/OCT-retina-classification-2017](https://huggingface.co/datasets/MaybeRichard/OCT-retina-classification-2017)
 
-**Presentation**
+**Deliverables**
 - ReeSee: [Presentation](https://reesee.my.canva.site/)
+- ReeSee: [Report](https://github.com/BRAIN-Lab-AI/ReSeeAI-AI-Based-Retinal-Disease-Detection/blob/main/Final_report.pdf)
 
 ---
 
